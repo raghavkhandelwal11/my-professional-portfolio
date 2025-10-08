@@ -1,0 +1,204 @@
+{
+  "basic_info": {
+    "name": "Raghav Khandelwal",
+    "titles": [
+      "MERN Stack Developer",
+      "Software Engineer",
+      "React JS Developer",
+      "Front End Developer"
+    ],
+    "socials": [
+      {
+        "icon": "mdi:linkedin",
+        "url": "https://www.linkedin.com/in/raghav-k-75920b255/"
+      },
+      {
+        "icon": "mdi:github",
+        "url": "https://github.com/raghavkhandelwal11"
+      },
+      {
+        "icon": "mdi:twitter",
+        "url": ""
+      }
+    ]
+  },
+  "about_me": {
+    "title": "About me",
+    "greeting": "Hi",
+    "content": " 👋 I'm Raghav Khandelwal. Front-End Developer with 3 years of hands-on experience in building scalable, high-performance web applications using React.js, TypeScript, and Next.js. Skilled in UI/UX design principles, API integration, and Agile development. Adept at delivering responsive, optimized interfaces and collaborating on impactful software solutions. Actively exploring AI and ML integration in front-end development. Thank you for visiting my page ❤️.",
+    "image": "myProfile.jpg",
+    "tech_stacks": ["devicon:react", "devicon:javascript", "devicon:tailwindcss"]
+  },
+  "projects": {
+    "title": "Recent Projects",
+    "projects": [
+      {
+        "title": "IITB Central Outreach Portal",
+        "startDate": "2023",
+        "description": "Developed and optimized the outreach management platform for IIT Bombay, used by 8 L+ users annually. Tech Stack: TypeScript, ES6, REST APIs, Bootstrap, HTML5, CSS3",
+        "images": [
+          "images/portfolio/cop/p1.jpg",
+          "images/portfolio/cop/p2.jpg",
+          "images/portfolio/cop/p3.jpg"
+        ],
+        "url": "https://iitb.vlabs.co.in/outreachportal/",
+        "technologies": [
+          {
+            "class": "mdi:bootstrap",
+            "name": "Bootstrap"
+          },
+          {
+            "class": "teenyicons:typescript-outline",
+            "name": "TypeScript"
+          },
+          {
+            "class": "devicon:docker",
+            "name": "Docker"
+          }
+        ]
+      },
+      {
+        "title": "K-SWAP",
+        "startDate": "2024",
+        "description": "Designed and implemented a kidney exchange matching system for hospitals in Mumbai, based on IIT Bombay’s K-SWAP algorithm. Tech Stack: TypeScript, Tailwind CSS, HTML5, Figma, CI/CD pipeline",
+        "images": [
+          "images/portfolio/kswap/p1.jpg",
+          "images/portfolio/kswap/p2.jpg",
+          "images/portfolio/kswap/p2.jpg"
+        ],
+        "url": "https://kswap.vlabsdev.in/index.html",
+        "technologies": [
+          {
+            "class": "mdi:react",
+            "name": "React"
+          },
+          {
+            "class": "teenyicons:javascript-outline",
+            "name": "JavaScript"
+          }
+        ]
+      },
+      {
+        "title": "Jigyasa-CSIR Platform",
+        "startDate": "2023",
+        "description": "Delivered multiple web applications for CSIR’s Jigyasa initiative — connecting scientists with school students across India.Tech Stack: TypeScript, ES6, REST APIs, Bootstrap, HTML5, CSS3, JSON",
+        "images": [
+          "images/portfolio/jigyasa/p1.jpg",
+          "images/portfolio/jigyasa/p2.jpg",
+          "images/portfolio/jigyasa/p2.jpg"
+        ],
+        "url": "https://jigyasa-csir.in/",
+        "technologies": [
+          {
+            "class": "mdi:angular",
+            "name": "Angular"
+          },
+          {
+            "class": "teenyicons:typescript-outline",
+            "name": "TypeScript"
+          },
+          {
+            "class": "devicon:csharp",
+            "name": "C#"
+          }
+        ]
+      }
+    ]
+  },
+  "skills": {
+    "title": "Skills",
+    "icons": [
+      {
+        "name": "HTML 5",
+        "class": "ri:html5-fill",
+        "level": "95"
+      },
+      {
+        "name": "CSS 3",
+        "class": "teenyicons:css3-solid",
+        "level": "95"
+      },
+      {
+        "name": "TypeScript",
+        "class": "teenyicons:typescript-solid",
+        "level": "90"
+      },
+      {
+        "name": "JavaScript",
+        "class": "teenyicons:javascript-solid",
+        "level": "70"
+      },
+      {
+        "name": "Sass",
+        "class": "la:sass",
+        "level": "75"
+      },
+      {
+        "name": "Bootstrap",
+        "class": "ri:bootstrap-fill",
+        "level": "85"
+      },
+      {
+        "name": "MySql",
+        "class": "fontisto:mysql",
+        "level": "60"
+      },
+       {
+        "name": "ReactJs",
+        "class": "devicon:react",
+        "level": "70"
+      },
+      {
+        "name": "Docker",
+        "class": "devicon:docker",
+        "level": "70"
+      },
+       {
+        "name": "Tailwind",
+        "class": "devicon:tailwindcss",
+        "level": "70"
+      }
+    ]
+  },
+  "experience": {
+    "title": "Experience",
+    "experiences": [
+      {
+        "company": "Virtual Labs, IIT Bombay",
+        "title": "Javascript Developer",
+        "years": "Jan/2023 - present",
+        "mainTech": "Typescipt and Node.js",
+        "mainTechIcon": "mdi:language-typescript",
+        "technologies": [
+          "REST API",
+          "RxJS",
+          "JavaScript",
+          "Bootstrap",
+          "Typescript",
+          "Tailwind",
+          "Documentation",
+          "UI Design",
+          "API Integration",
+          "SEO"
+        ]
+      },
+      {
+        "company": "Freelancing",
+        "title": "Full-Stack Developer",
+        "years": "2022 - 2023",
+        "mainTech": "MERN-Stack Development",
+        "mainTechIcon": "mdi:react",
+        "technologies": ["ReactJS", "Bootstrap", "MongoDB", "JavaScript", "Express", "NodeJs"]
+      },
+      {
+        "company": "Elevation Academy",
+        "title": "MERN-Stack Course Completed",
+        "years": "2022",
+        "mainTech": "MERN-Stack",
+        "mainTechIcon": "mdi:react",
+        "technologies": ["ReactJS", "Bootstrap", "MongoDB", "JavaScript", "Express", "NodeJs"]
+      }
+    ]
+  },
+  "copyright": "Copyright"
+}
